@@ -2,7 +2,7 @@
 
 [Link](https://fwb22udata.herokuapp.com/)
 
-Class Restaurant
+Class restaurant
 
 room_type(string)
 duration(number)
