@@ -6,7 +6,7 @@ var logger = require("morgan");
 
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
-var gasRouter = require("./routes/gas");
+//var gasRouter = require("./routes/gas");
 //var addmodsRouter = require('./routes/addmods');
 //var selectorRouter = require('./routes/selector');
 
@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
-app.use("/gas", gasRouter);
+//app.use("/gas", gasRouter);
 //app.use('/addmods',addmodsRouter);
 //app.use('/selector',selectorRouter);
 
