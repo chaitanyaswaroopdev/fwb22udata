@@ -10,6 +10,6 @@ Cost(number)
 
 [Restaurant](https://fwb22udata.herokuapp.com/restaurant)
 
-[Addmods](https://fwb22udata.herokuapp.com/addmods)
+[Addmods](https://fwb22udata.herokuapp.com/addmods?rows=3&cols=4)
 
 [Selector](https://fwb22udata.herokuapp.com/selector)
