@@ -4,6 +4,6 @@
 
 Class restaurant
 
-room_type(string)
-duration(number)
-cost(number)
+Room_type(string)
+Duration(number)
+Cost(number)
